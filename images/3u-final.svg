@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="satellite-svg"
+   Created="Frank-Pound"
+   Company="AstroSec"
+   >
+  <defs
+     id="defs20906">
+  </defs>
+  
+  <g
+     id="layer1">
+    <polygon
+       class="cls-18"
+       points="184.03,115.54 152.74,85.45 152.74,67.98 184.03,99.6 "
+       id="polygon17204"
+       transform="matrix(1.0602343,0,0,1.0602343,-92.065165,21.35177)"
+       style="opacity:0.653;mix-blend-mode:normal;fill:none;stroke:#000000;stroke-width:0.943188;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;fill-opacity:1" />
+    <path
+       class="cls-20"
+       d="m 103.01792,143.97849 a 0.16963748,0.16963748 0 0 1 -0.0954,0 L 69.779611,112.04427 a 0.13783045,0.13783045 0 0 1 0,-0.0954 V 93.447709 a 0.13783045,0.13783045 0 0 1 0.233259,-0.09541 l 33.17476,33.524651 a 0.16963748,0.16963748 0 0 1 0,0.0954 v 16.90014 a 0.11662579,0.11662579 0 0 1 -0.0741,0.11661 z M 70.002218,111.89581 102.86949,143.54384 V 127.00417 L 70.002218,93.74457 Z"
+       id="path17206"
+       style="opacity:0.653;mix-blend-mode:normal;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;fill-opacity:1" />
+    <polygon
+       class="cls-18"
+       points="186.77,69.18 189.29,71.75 197.81,80.34 200.44,83 184.03,99.6 152.74,67.98 169.15,51.4 172.3,54.58 181.43,63.79 184.91,67.33 "
+       id="satellite-top-bus"
+       transform="matrix(1.0602343,0,0,1.0602343,-92.065165,21.35177)"
+       style="opacity:0.653;mix-blend-mode:normal;fill:none;stroke:#000000;stroke-width:0.943188;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;fill-opacity:1" />
+    <path
+       class="cls-20"
+       d="m 103.01792,127.0784 a 0.16963748,0.16963748 0 0 1 -0.0954,0 L 69.779611,93.521884 a 0.15903514,0.15903514 0 0 1 0,-0.190738 L 87.178055,75.752508 a 0.13783045,0.13783045 0 0 1 0.190861,0 l 33.174814,33.503442 a 0.13783045,0.13783045 0 0 1 0,0.19074 l -17.3985,17.59989 a 0.14843281,0.14843281 0 0 1 -0.12744,0.0321 z M 70.065832,93.447677 103.01792,126.7603 120.25742,109.35123 87.273438,76.028043 Z"
+       id="satellite-bus-line"
+       style="opacity:0.653;mix-blend-mode:normal;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;fill-opacity:1" />
+    <path
+       class="cls-20"
+       d="m 103.01792,143.97849 v 0 a 0.12722811,0.12722811 0 0 1 -0.0849,-0.11661 v -16.91071 a 0.19084217,0.19084217 0 0 1 0,-0.0954 l 17.40912,-17.5999 a 0.11662579,0.11662579 0 0 1 0.13785,0 0.13783045,0.13783045 0 0 1 0.0849,0.12738 v 18.42687 a 0.10602342,0.10602342 0 0 1 0,0.0954 l -17.40913,16.07314 a 0.11662579,0.11662579 0 0 1 -0.13784,0 z m 0.12743,-16.96373 v 16.53965 l 17.14409,-15.81869 v -18.02398 z"
+       id="path17214"
+       style="opacity:0.653;mix-blend-mode:normal;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;fill-opacity:1" />
+    <polygon
+       points="198.91,95.67 190.83,103.16 190.83,95.27 198.95,87.06 "
+       id="satellite-radio"
+       transform="matrix(1.0602343,0,0,1.0602343,-92.065165,21.35177)"
+       class="cls-18"
+       style="opacity:0.50437318;mix-blend-mode:normal;fill:none;stroke:#000000;stroke-width:0.943188;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;fill-opacity:1" />
+    <polygon
+       class="cls-18"
+       points="200.45,100.38 184.03,115.54 184.03,99.6 200.45,83 "
+       id="polygon17212"
+       transform="matrix(1.0602343,0,0,1.0602343,-92.065165,21.35177)"
+       style="opacity:0.653;mix-blend-mode:normal;fill:none;stroke:#000000;stroke-width:0.943188;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+    <path
+       d="m 110.25938,130.85279 h -0.0529 a 0.12722811,0.12722811 0 0 1 -0.0849,-0.11661 v -8.37581 a 0.12722811,0.12722811 0 0 1 0,-0.085 l 8.65154,-8.68333 a 0.14843281,0.14843281 0 0 1 0.14827,0 0.11662579,0.11662579 0 0 1 0.0741,0.11661 v 9.12862 a 0.10602342,0.10602342 0 0 1 0,0.0954 l -8.56675,7.94116 a 0.11662579,0.11662579 0 0 1 -0.16951,-0.02 z m 0.12704,-8.48184 v 7.99419 l 8.30167,-7.68671 v -8.74697 z"
+       id="satellite-radio-line"
+       class="cls-20"
+       style="opacity:0.653;mix-blend-mode:normal;fill:#8cbed1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;fill-opacity:1" />
+    <polygon
+       class="cls-18"
+       points="152.74,35.23 169.15,18.64 169.15,51.4 152.74,67.98 "
+       id="solar-panel-top"
+       transform="matrix(1.0602343,0,0,1.0602343,-92.065165,21.35177)"
+       style="opacity:0.653;mix-blend-mode:normal;fill:none;stroke:#000000;stroke-width:0.943188;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+    <path
+       class="cls-20"
+       d="m 69.87499,93.553704 v 0 A 0.11662579,0.11662579 0 0 1 69.79016,93.437092 V 58.70382 a 0.16963748,0.16963748 0 0 1 0,-0.09538 L 87.188604,41.01915 a 0.12722811,0.12722811 0 0 1 0.148431,0 0.12722811,0.12722811 0 0 1 0.08483,0.116611 v 34.71208 a 0.19084217,0.19084217 0 0 1 0,0.09538 l -17.45146,17.578665 a 0.12722811,0.12722811 0 0 1 -0.09541,0.03213 z m 0.137846,-34.79687 V 93.108428 L 87.114417,75.794783 v -34.36217 z"
+       id="solar-panel-top-line"
+       style="opacity:0.653;mix-blend-mode:normal;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+    <polygon
+       class="cls-18"
+       points="120.34,117.32 120.34,100.73 132.44,88.5 142.16,78.68 143.01,77.81 152.74,67.98 152.74,85.45 143.01,95.02 142.16,95.87 132.44,105.42 131.26,106.58 121.54,116.14 "
+       id="solar-panel-left"
+       transform="matrix(1.0602343,0,0,1.0602343,-92.065165,21.35177)"
+       style="opacity:0.653;mix-blend-mode:normal;fill:none;stroke:#000000;stroke-width:0.943188;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+    <path
+       class="cls-20"
+       d="m 35.5234,145.87633 v 0 a 0.13783045,0.13783045 0 0 1 -0.08483,-0.12705 V 128.1494 a 0.13783045,0.13783045 0 0 1 0,-0.0954 L 69.790166,93.331243 a 0.14843281,0.14843281 0 0 1 0.14843,0 0.13783045,0.13783045 0 0 1 0.08483,0.127051 v 18.490536 a 0.13783045,0.13783045 0 0 1 0,0.0954 L 35.671825,145.8339 a 0.12722811,0.12722811 0 0 1 -0.148431,0.0426 z m 0.127228,-17.67408 v 17.19699 L 69.747762,111.89581 V 93.74457 Z"
+       id="solar-panel-left-line"
+       style="opacity:0.653;mix-blend-mode:normal;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+    <polygon
+       class="cls-18"
+       points="169.15,51.4 170.68,49.85 192.19,28.11 193.59,26.7 200.44,19.78 201.57,18.64 201.57,35.23 200.44,36.38 193.59,43.3 181.4,55.62 177.37,59.69 170.68,52.94 "
+       id="solar-panel-right"
+       transform="matrix(1.0602343,0,0,1.0602343,-92.065165,21.35177)"
+       style="opacity:0.653;mix-blend-mode:normal;fill:none;stroke:#000000;stroke-width:0.943188;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+    <path
+       class="cls-20"
+       d="m 95.988563,84.764386 h -0.09541 l -8.715135,-8.789358 a 0.13783045,0.13783045 0 0 1 0,-0.190743 L 121.5509,41.051009 a 0.12722811,0.12722811 0 0 1 0.14827,0 0.12722811,0.12722811 0 0 1 0.085,0.116611 v 17.599875 a 0.15903514,0.15903514 0 0 1 0,0.09538 L 96.126359,84.796163 a 0.14843281,0.14843281 0 0 1 -0.137813,-0.03206 z m -8.481876,-8.916587 8.481876,8.598496 25.530517,-25.79549 V 41.432613 Z"
+       id="solar-panel-right-line"
+       style="opacity:0.653;mix-blend-mode:normal;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+    <polygon
+       class="cls-18"
+       points="152.74,117.32 168.91,101 152.74,85.45 "
+       id="sensor-door"
+       transform="matrix(1.0602343,0,0,1.0602343,-92.065165,21.35177)"
+       style="opacity:0.653;mix-blend-mode:normal;fill:none;stroke:#000000;stroke-width:0.943188;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+    <path
+       class="cls-20"
+       d="m 69.87499,145.87633 h -0.05302 a 0.15903514,0.15903514 0 0 1 -0.08483,-0.12705 v -33.80026 a 0.12722811,0.12722811 0 0 1 0.08483,-0.11661 0.12722811,0.12722811 0 0 1 0.14843,0 l 17.143984,16.50788 a 0.09542109,0.09542109 0 0 1 0,0.085 0.10602342,0.10602342 0 0 1 0,0.0954 l -17.133381,17.31356 a 0.12722811,0.12722811 0 0 1 -0.106024,0.0425 z m 0.127228,-33.62004 v 33.14295 l 16.82592,-16.96377 z"
+       id="sensor-door-line"
+       style="opacity:0.653;mix-blend-mode:normal;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+    <polygon
+       class="cls-18"
+       points="152.74,38.42 169.15,21.85 169.15,29.98 152.74,46.56 "
+       id="polygon17236"
+       transform="matrix(1.0602343,0,0,1.0602343,-92.065165,21.35177)"
+       style="opacity:0.653;mix-blend-mode:normal;fill:none;stroke:#000000;stroke-width:0.943188;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+    <path
+       class="cls-20"
+       d="m 69.87499,70.854084 v 0 a 0.13783045,0.13783045 0 0 1 -0.08483,-0.12742 v -8.6409 a 0.16963748,0.16963748 0 0 1 0,-0.09538 l 17.398445,-17.56809 a 0.14843281,0.14843281 0 0 1 0.148431,0 0.12722811,0.12722811 0 0 1 0.08483,0.116611 v 8.619696 a 0.19084217,0.19084217 0 0 1 0,0.09538 L 69.970409,70.811449 a 0.13783045,0.13783045 0 0 1 -0.09541,0.04246 z m 0.137846,-8.715104 v 8.259208 L 87.114414,53.084585 v -8.23805 z"
+       id="path17238"
+       style="opacity:0.653;mix-blend-mode:normal;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+    <polygon
+       class="cls-18"
+       points="152.74,55.86 169.15,39.29 169.15,47.42 152.74,64 "
+       id="polygon17240"
+       transform="matrix(1.0602343,0,0,1.0602343,-92.065165,21.35177)"
+       style="opacity:0.653;mix-blend-mode:normal;fill:none;stroke:#000000;stroke-width:0.943188;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+    <path
+       class="cls-20"
+       d="m 69.87499,89.344597 v 0 a 0.13783045,0.13783045 0 0 1 -0.08483,-0.12742 v -8.640933 a 0.16963748,0.16963748 0 0 1 0,-0.09538 l 17.398445,-17.55748 a 0.12722811,0.12722811 0 0 1 0.148431,0 0.12722811,0.12722811 0 0 1 0.08484,0.116612 v 8.619734 a 0.15903514,0.15903514 0 0 1 0,0.09538 l -17.45148,17.546852 a 0.13783045,0.13783045 0 0 1 -0.09541,0.04249 z m 0.137846,-8.715144 v 8.259248 L 87.114417,71.575058 v -8.23801 z"
+       id="path17242"
+       style="opacity:0.653;mix-blend-mode:normal;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+    <polygon
+       class="cls-18"
+       points="191.71,28.6 198.56,21.68 198.56,38.27 191.71,45.2 "
+       id="polygon17244"
+       transform="matrix(1.0602343,0,0,1.0602343,-92.065165,21.35177)"
+       style="opacity:0.653;mix-blend-mode:normal;fill:none;stroke:#000000;stroke-width:0.943188;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+    <path
+       class="cls-20"
+       d="m 111.19238,69.401561 h -0.0529 a 0.11662579,0.11662579 0 0 1 -0.0849,-0.116611 V 51.674455 a 0.19084217,0.19084217 0 0 1 0,-0.09538 l 7.26261,-7.336835 a 0.12722811,0.12722811 0 0 1 0.14826,0 0.14843281,0.14843281 0 0 1 0.0741,0.127035 v 17.599916 a 0.11662579,0.11662579 0 0 1 0,0.08495 l -7.26261,7.347414 a 0.16963748,0.16963748 0 0 1 -0.085,0 z m 0.12744,-17.674089 v 17.22881 l 6.99756,-7.082378 V 44.67691 Z"
+       id="path17246"
+       style="opacity:0.653;mix-blend-mode:normal;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+    <polygon
+       class="cls-18"
+       points="123.96,97.06 129.92,91.04 129.92,107.9 123.96,113.76 "
+       id="polygon17248"
+       transform="matrix(1.0602343,0,0,1.0602343,-92.065165,21.35177)"
+       style="opacity:0.653;mix-blend-mode:normal;fill:none;stroke:#000000;stroke-width:0.943188;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+    <path
+       class="cls-20"
+       d="m 39.403857,142.10189 v 0 a 0.12722811,0.12722811 0 0 1 -0.08483,-0.12737 v -17.71649 a 0.11662579,0.11662579 0 0 1 0,-0.085 l 6.361406,-6.36141 a 0.12722811,0.12722811 0 0 1 0.14843,0 0.13783045,0.13783045 0 0 1 0.08483,0.11661 v 17.82251 a 0.15903514,0.15903514 0 0 1 0,0.0954 l -6.361407,6.21298 a 0.09542109,0.09542109 0 0 1 -0.148431,0.0424 z m 0.137845,-17.78012 v 17.33484 l 6.064541,-5.95852 V 118.2042 Z"
+       id="path17250"
+       style="opacity:0.653;mix-blend-mode:normal;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+    <polygon
+       class="cls-18"
+       points="139.45,81.47 146.3,74.5 146.3,91.79 139.45,98.53 "
+       id="polygon17252"
+       transform="matrix(1.0602343,0,0,1.0602343,-92.065165,21.35177)"
+       style="opacity:0.653;mix-blend-mode:normal;fill:none;stroke:#000000;stroke-width:0.943188;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+    <path
+       class="cls-20"
+       d="m 55.784479,125.95454 v 0 a 0.12722811,0.12722811 0 0 1 -0.08484,-0.12704 v -18.09844 a 0.09542109,0.09542109 0 0 1 0,-0.085 l 7.262608,-7.42166 a 0.13783045,0.13783045 0 0 1 0.137845,0 0.13783045,0.13783045 0 0 1 0.08482,0.12705 v 18.32091 a 0.11662579,0.11662579 0 0 1 0,0.0954 l -7.262604,7.14597 a 0.09542109,0.09542109 0 0 1 -0.137846,0.0424 z m 0.127228,-18.16183 v 17.71651 l 6.997546,-6.89151 v -17.9498 z"
+       id="path17254"
+       style="opacity:0.653;mix-blend-mode:normal;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+    <polygon
+       class="cls-18"
+       points="177.61,42.85 184.47,35.92 184.47,52.52 177.61,59.44 "
+       id="polygon17256"
+       transform="matrix(1.0602343,0,0,1.0602343,-92.065165,21.35177)"
+       style="opacity:0.653;mix-blend-mode:normal;fill:none;stroke:#000000;stroke-width:0.943188;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+    <path
+       class="cls-20"
+       d="m 96.243021,84.50993 v 0 a 0.13783045,0.13783045 0 0 1 -0.08484,-0.12702 V 66.782986 a 0.12722811,0.12722811 0 0 1 0,-0.09538 l 7.273239,-7.347408 a 0.12722811,0.12722811 0 0 1 0.13785,0 0.12722811,0.12722811 0 0 1 0.085,0.116611 v 17.599916 a 0.12722811,0.12722811 0 0 1 0,0.09538 l -7.262633,7.336794 a 0.10602342,0.10602342 0 0 1 -0.148429,0.02003 z M 96.380833,66.8358 v 17.218234 l 6.997577,-7.071761 V 59.764041 Z"
+       id="path17258"
+       style="opacity:0.653;mix-blend-mode:normal;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+    <polygon
+       class="cls-18"
+       points="189.29,71.75 197.81,80.34 187.87,90.39 179.36,81.8 "
+       id="satellite-adcs"
+       transform="matrix(1.0602343,0,0,1.0602343,-92.065165,21.35177)"
+       style="opacity:0.653;mix-blend-mode:normal;fill:none;stroke:#000000;stroke-width:0.943188;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+    <path
+       class="cls-20"
+       d="m 107.12106,117.31361 a 0.11662579,0.11662579 0 0 1 -0.0954,0 l -9.022629,-9.0968 a 0.13783045,0.13783045 0 0 1 0,-0.19076 L 108.54183,97.423687 a 0.12722811,0.12722811 0 0 1 0.18032,0 l 9.03324,9.096823 a 0.13783045,0.13783045 0 0 1 0,0.19075 l -10.53879,10.60235 a 0.12722811,0.12722811 0 0 1 -0.0954,0 z m -8.842374,-9.23465 8.842374,8.9166 10.34792,-10.46455 -8.84237,-8.916585 z"
+       id="satellite-adcs-line"
+       style="opacity:0.653;mix-blend-mode:normal;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+    <polygon
+       class="cls-18"
+       points="173.09,83 158.64,68.38 172.3,54.58 181.43,63.79 184.91,67.33 186.77,69.18 "
+       id="satellite-power-management"
+       transform="matrix(1.0602343,0,0,1.0602343,-92.065165,21.35177)"
+       style="opacity:0.653;mix-blend-mode:normal;fill:none;stroke:#000000;stroke-width:0.943188;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+    <path
+       class="cls-20"
+       d="m 91.45076,109.48908 v 0 a 0.19084217,0.19084217 0 0 1 -0.09541,0 L 76.034967,93.946006 a 0.13783045,0.13783045 0 0 1 0,-0.190738 L 90.517769,79.124033 a 0.13783045,0.13783045 0 0 1 0.190864,0 l 15.331007,15.490014 a 0.11662579,0.11662579 0 0 1 0,0.180329 L 91.546214,109.44685 a 0.13783045,0.13783045 0 0 1 -0.09541,0.0424 z M 76.321217,93.850596 91.45076,109.16042 l 14.31318,-14.461662 -1.87662,-1.876605 -3.68963,-3.742631 -9.542108,-9.679915 z"
+       id="path27640"
+       style="opacity:0.653;mix-blend-mode:normal;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+    <polygon
+       class="cls-18"
+       points="181.43,63.79 184.91,67.33 177.27,75.05 173.77,71.52 "
+       id="polygon17268"
+       transform="matrix(1.0602343,0,0,1.0602343,-92.065165,21.35177)"
+       style="opacity:0.653;mix-blend-mode:normal;fill:none;stroke:#000000;stroke-width:0.943188;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+    <path
+       class="cls-20"
+       d="m 95.882537,101.06016 a 0.13783045,0.13783045 0 0 1 -0.09541,0 l -3.71082,-3.753214 a 0.12722811,0.12722811 0 0 1 0,-0.180313 l 8.121383,-8.195617 a 0.15903514,0.15903514 0 0 1 0.0954,0 v 0 a 0.19084217,0.19084217 0 0 1 0.0954,0 l 3.68963,3.710807 a 0.12722811,0.12722811 0 0 1 0,0.18033 l -8.100193,8.195617 a 0.19084217,0.19084217 0 0 1 -0.09541,0.0424 z m -3.530578,-3.880426 3.530578,3.551766 7.919993,-7.994171 -3.50943,-3.530578 z"
+       id="satellite-imu"
+       style="opacity:0.653;mix-blend-mode:normal;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+    <polygon
+       class="cls-18"
+       points="175.44,90.92 181.92,84.38 159.22,61.44 152.74,67.98 "
+       id="satellite-obc"
+       transform="matrix(1.0602343,0,0,1.0602343,-92.065165,21.35177)"
+       style="opacity:0.653;mix-blend-mode:normal;fill:none;stroke:#000000;stroke-width:0.943188;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+    <path
+       class="cls-20"
+       d="m 93.94231,117.88616 a 0.09542109,0.09542109 0 0 1 -0.08483,0 L 69.779571,93.521884 a 0.13783045,0.13783045 0 0 1 0,-0.190738 l 6.870319,-6.933912 a 0.13783045,0.13783045 0 0 1 0.09541,0 v 0 a 0.12722811,0.12722811 0 0 1 0.08484,0 l 24.06733,24.332446 a 0.11662579,0.11662579 0 0 1 0,0.18033 l -6.85973,6.92333 a 0.10602342,0.10602342 0 0 1 -0.09541,0.0529 z M 70.065832,93.447677 93.94231,117.5893 l 6.6795,-6.7537 -23.876501,-24.152213 z"
+       id="satellite-obc-line"
+       style="opacity:0.653;mix-blend-mode:normal;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+  </g>
+</svg>
